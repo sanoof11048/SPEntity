@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\dotnet\\SPEntity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,28 +46,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Manager.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Model\\Manager.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Manager.cs",
+              "RelativeToolTip": "SPEntity\\Model\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T08:48:30.543Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "RelativeToolTip": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T18:54:37.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SPEntity\\Data\\AppDbContext.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "SPEntity\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:56:22.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T18:56:22.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "SPEntity\\Controllers\\EmployeeController.cs",
@@ -84,12 +100,11 @@
               "RelativeToolTip": "SPEntity\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:38:16.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:38:16.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\appsettings.json",
               "RelativeDocumentMoniker": "SPEntity\\appsettings.json",
@@ -97,12 +112,11 @@
               "RelativeToolTip": "SPEntity\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-05T19:32:29.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:32:29.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
               "RelativeDocumentMoniker": "SPEntity\\Program.cs",
@@ -110,12 +124,11 @@
               "RelativeToolTip": "SPEntity\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:17:02.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:17:02.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "SPEntity\\Model\\Employee.cs",
@@ -127,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
@@ -139,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250505194201_init.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Migrations\\20250505194201_init.cs",
               "RelativeDocumentMoniker": "SPEntity\\Migrations\\20250505194201_init.cs",
