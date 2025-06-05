@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\SPEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\services\\employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\services\\employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\migrations\\20250505194201_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\migrations\\20250505194201_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Model\\Employee.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Employee.cs",
+              "RelativeToolTip": "SPEntity\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:00:07.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeToolTip": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:54:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SPEntity\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:56:22.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SPEntity\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:38:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\appsettings.json",
+              "RelativeDocumentMoniker": "SPEntity\\appsettings.json",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\appsettings.json",
+              "RelativeToolTip": "SPEntity\\appsettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T19:32:29.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
+              "RelativeToolTip": "SPEntity\\Services\\EmployeeService\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T18:54:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Program.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
+              "RelativeToolTip": "SPEntity\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:17:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250505194201_init.cs",
+              "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Migrations\\20250505194201_init.cs",
+              "RelativeDocumentMoniker": "SPEntity\\Migrations\\20250505194201_init.cs",
+              "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Migrations\\20250505194201_init.cs",
+              "RelativeToolTip": "SPEntity\\Migrations\\20250505194201_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:42:01.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
