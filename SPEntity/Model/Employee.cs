@@ -11,6 +11,7 @@ namespace SPEntity.Model
         [Required]
         [EmailAddress]
         public string? Email { get; set; }
+        public int Wage {  get; set; }
         [Required]
         [Range(18, 70)]
         public int Age { get; set; }

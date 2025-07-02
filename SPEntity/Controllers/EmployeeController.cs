@@ -22,6 +22,13 @@ namespace SPEntity.Controllers
             var emp = await _employeeService.GetAllEmp();
             return Ok(emp);
         }
+
+        [HttpGet("All")]
+        public async Task<IActionResult> GetAllEmpp()
+        {
+            var emp = await _employeeService.GetAllEmp();
+            return Ok(emp);
+        }
         [HttpDelete("delete/{id:int}")]
         public async Task<IActionResult> DeleteEmp(int id)
         {

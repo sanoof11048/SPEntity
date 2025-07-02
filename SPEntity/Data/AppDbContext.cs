@@ -7,5 +7,6 @@ namespace SPEntity.Data
     {
         public AppDbContext(DbContextOptions<AppDbContext>options): base(options) { }
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Employee> Employeess { get; set; }
     }
 }

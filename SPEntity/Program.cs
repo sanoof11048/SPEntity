@@ -13,7 +13,7 @@ namespace SPEntity
 
             // Add services to the container.
             builder.Services.AddScoped<IEmployeeService, EmployeeService>();
-
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(
             builder.Configuration.GetConnectionString("DefaultConnection"),

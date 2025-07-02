@@ -30,6 +30,11 @@ namespace SPEntity.Services.EmployeeService
             await _context.Database.ExecuteSqlAsync($"EXEC manageEmployee @Action = 'UPDATE',@Id={emp.Id}, @Name = {emp.Name}, @Email={emp.Email}, @Age = {emp.Age}, @Department = {emp.Department}, @Salary = {emp.Salary}");
         }
 
+        public async Task UpdateEmpp(Employee emp)
+        {
+            await _context.Database.ExecuteSqlAsync($"EXEC manageEmployee @Action = 'UPDATE',@Id={emp.Id}, @Name = {emp.Name}, @Email={emp.Email}, @Age = {emp.Age}, @Department = {emp.Department}, @Salary = {emp.Salary}");
+        }
+
 
     }
 }
