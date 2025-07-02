@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|solutionrelative:spentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94EAF59-832C-4C08-8B58-947ACD1B74AB}|SPEntity\\SPEntity.csproj|d:\\dotnet\\spentity\\spentity\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,22 +56,23 @@
               "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "RelativeToolTip": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T18:54:37.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SPEntity\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Data\\AppDbContext.cs",
               "RelativeToolTip": "SPEntity\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T18:56:22.801Z"
+              "WhenOpened": "2025-05-05T18:56:22.801Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,7 +82,7 @@
               "RelativeDocumentMoniker": "SPEntity\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "SPEntity\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:38:16.286Z",
               "EditorCaption": ""
@@ -90,19 +95,20 @@
               "RelativeDocumentMoniker": "SPEntity\\appsettings.json",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\appsettings.json",
               "RelativeToolTip": "SPEntity\\appsettings.json",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-05T19:32:29.099Z"
+              "WhenOpened": "2025-05-05T19:32:29.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
               "RelativeDocumentMoniker": "SPEntity\\Program.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
               "RelativeToolTip": "SPEntity\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:17:02.457Z",
               "EditorCaption": ""
@@ -115,9 +121,10 @@
               "RelativeDocumentMoniker": "SPEntity\\Model\\Employee.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Model\\Employee.cs",
               "RelativeToolTip": "SPEntity\\Model\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:00:07.127Z"
+              "WhenOpened": "2025-05-05T19:00:07.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
               "RelativeToolTip": "SPEntity\\Services\\EmployeeService\\EmployeeService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBsAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T18:54:37.129Z",
               "EditorCaption": ""
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "SPEntity\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "SPEntity\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:38:16.286Z",
               "EditorCaption": ""
@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "SPEntity\\appsettings.json",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\appsettings.json",
               "RelativeToolTip": "SPEntity\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-05T19:32:29.099Z",
               "EditorCaption": ""
@@ -108,7 +108,7 @@
               "RelativeDocumentMoniker": "SPEntity\\Program.cs",
               "ToolTip": "D:\\dotnet\\SPEntity\\SPEntity\\Program.cs",
               "RelativeToolTip": "SPEntity\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T19:17:02.457Z",
               "EditorCaption": ""
@@ -123,8 +123,7 @@
               "RelativeToolTip": "SPEntity\\Model\\Employee.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:00:07.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T19:00:07.127Z"
             },
             {
               "$type": "Document",
